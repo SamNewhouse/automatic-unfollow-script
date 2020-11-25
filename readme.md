@@ -31,7 +31,7 @@ Milliseconds in 24 hours: 86400000\
 86400000 / 700 = 123428.571429\
 Add a bit of fat to avoid exceeding limit due to random clock.\
 123428 + 1572 = 125000\
-Minimum of 125000 milliseconds(125 seconds) to stay within 24 hour restrictions.\
+Minimum of 125000 milliseconds(125 seconds) to stay within 24 hour restrictions.
 
 Timeouts have been put in place to prevent script detection.
 
